@@ -1,0 +1,14 @@
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\bin\Debug\net9.0\Fawry-Assessment.exe
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\bin\Debug\net9.0\Fawry-Assessment.deps.json
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\bin\Debug\net9.0\Fawry-Assessment.runtimeconfig.json
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\bin\Debug\net9.0\Fawry-Assessment.dll
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\bin\Debug\net9.0\Fawry-Assessment.pdb
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\Fawry-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\Fawry-Assessment.AssemblyInfoInputs.cache
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\Fawry-Assessment.AssemblyInfo.cs
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\Fawry-Assessment.csproj.CoreCompileInputs.cache
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\Fawry-Assessment.dll
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\refint\Fawry-Assessment.dll
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\Fawry-Assessment.pdb
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\Fawry-Assessment.genruntimeconfig.cache
+C:\Users\micro\Desktop\FAWRY\Fawry-Assessment\Fawry-Assessment\obj\Debug\net9.0\ref\Fawry-Assessment.dll
