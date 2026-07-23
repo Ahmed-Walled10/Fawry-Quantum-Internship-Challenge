@@ -1,4 +1,4 @@
-# Fawry Quantum Radar — Traffic Violation & Fine System
+# Fawry Quantum Radar
 
 ## 1. What this project does
 
