@@ -11,7 +11,7 @@ namespace Fawry_Assessment.Rules
             {
                 return new Violation(
                     ruleName: nameof(SeatbeltRule),
-                    description: "Seatbelt not fastned",
+                    description: "Seatbelt not fastened",
                     fee: Fee
                 );
             }
